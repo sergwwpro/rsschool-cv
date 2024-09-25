@@ -7,7 +7,7 @@
 
 ## Education
 **University:** Odesa National Technological University
-**Start:** 2019
+**Start:** 2019   
 
 ## Skills
 - Frameworks: TailwindCSS
